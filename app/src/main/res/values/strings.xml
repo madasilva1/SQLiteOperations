@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteOperations</string>
+    <string name="user_name">Enter User Name</string>
+    <string name="lblPassword">Enter Your Password</string>
+    <string name="view_data">View data</string>
+    <string name="add_user">Add User</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
